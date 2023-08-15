@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Aprendendo Responsividade veio para ensinar alguns conceitos e boas praticas de responsividade, como Mobile-first e unidades de medidas flexiveis.
 
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/responsividade-project/) 👀
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/EkUbO1bmEfVaFLg7E73y9M/Explorer-Stage-03-Projeto-02-(Copy)?type=design&node-id=203-412&mode=design&t=43VfF5DYZloHk9vn-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
